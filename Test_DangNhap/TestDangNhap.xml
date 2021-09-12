@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestData>
+  <DangNhap>
+    <TenDN></TenDN>
+    <MatKhau></MatKhau>
+    <TB>Không được để trống username</TB>
+  </DangNhap>
+<DangNhap>
+    <TenDN></TenDN>
+    <MatKhau>Thanh123</MatKhau>
+    <TB>Không được để trống username</TB>
+  </DangNhap>
+<DangNhap>
+    <TenDN>NV01</TenDN>
+    <MatKhau></MatKhau>
+    <TB>Không được để trống password</TB>
+  </DangNhap>
+<DangNhap>
+    <TenDN>NV01</TenDN>
+    <MatKhau>Thanh1234</MatKhau>
+    <TB>Sai username hoặc password</TB>
+  </DangNhap>
+<DangNhap>
+    <TenDN></TenDN>
+    <MatKhau></MatKhau>
+    <TB></TB>
+  </DangNhap>
+</TestData>

@@ -1,0 +1,7 @@
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\DAL\bin\Release\DAL.dll.config
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\DAL\bin\Release\DAL.dll
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\DAL\bin\Release\DAL.pdb
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\DAL\obj\Release\DAL.dll
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\DAL\obj\Release\DAL.pdb

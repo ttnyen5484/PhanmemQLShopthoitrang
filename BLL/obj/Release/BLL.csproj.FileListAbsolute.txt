@@ -1,0 +1,10 @@
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\BLL\bin\Release\BLL.dll
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\BLL\bin\Release\BLL.pdb
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\BLL\bin\Release\DAL.dll
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\BLL\bin\Release\DAL.pdb
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\BLL\bin\Release\DAL.dll.config
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\BLL\obj\Release\BLL.csprojAssemblyReference.cache
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\BLL\obj\Release\BLL.csproj.CoreCompileInputs.cache
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\BLL\obj\Release\BLL.csproj.CopyComplete
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\BLL\obj\Release\BLL.dll
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\BLL\obj\Release\BLL.pdb

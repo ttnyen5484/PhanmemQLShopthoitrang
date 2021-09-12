@@ -1,0 +1,5 @@
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\Test_ThemBoPhan\bin\Release\Test_ThemBoPhan.dll
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\Test_ThemBoPhan\bin\Release\Test_ThemBoPhan.pdb
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\Test_ThemBoPhan\obj\Release\Test_ThemBoPhan.csproj.CoreCompileInputs.cache
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\Test_ThemBoPhan\obj\Release\Test_ThemBoPhan.dll
+D:\ITTC\Nam3\HK2\Kiem tra chuc luong phan mem\Do An\DoAnThoiTrang\Test_ThemBoPhan\obj\Release\Test_ThemBoPhan.pdb
